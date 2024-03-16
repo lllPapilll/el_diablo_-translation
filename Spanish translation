@@ -23,6 +23,7 @@ translate espanol akt1_0d3f2968:
 
     # s "el diablo del salvaje oeste que vino de las profundidades,{p=0.1} que nunca falla, y si quería, no fallaba"
     s "el diablo del salvaje oeste que vino de las profundidades,{p=0.1} que nunca falla, y si quería, no fallaba"
+    + s "El Diablo del Salvaje oeste que vino de las profundidades,{p=0.1} que nunca falla, y si quería, no fallaba."
 
 # game/script.rpy:275
 translate espanol akt1_c3526b0b:
@@ -41,12 +42,14 @@ translate espanol showgg_bank1_05cbfcd7:
 
     # s "El Diablo був благородним бандитом, тому крав у всіх, не важливо, багатий ти чи бідний, твої гроші це гроші El Diablo. З ним завжди були три його вершники апокаліпсису, найвідчайдушніші виродки на всьому Дикому Заході."
     s "El Diablo era un bandido noble, por eso robaba a todos, no importa si eras rico o pobre, tus dineros eran los dineros del Diablo. Siempre lo acompañaban tres jinetes del apocalipsis, los más despiadados malhechores del Salvaje Oeste."
+    + s "El Diablo era un bandido noble, por eso robaba a todos, no importa si eras rico o pobre, tu dinero era el dinero del Diablo. Siempre lo acompañaban los Tres Jinetes del Apocalipsis, los más despiadados malhechores del Salvaje Oeste."
 
 # game/script.rpy:319
 translate espanol showgg_bank1_1e0b5a31:
 
     # b "На вулиці чисто, Босе. І погода чудова, саме те, щоб відстрелити місцевому шерифу його хвіст."
     b "En la calle está limpio, jefe. Y el clima es estupendo, justo para dispararle al trasero del sheriff local."
+    + b "En la calle está limpio, jefe. Y el clima es estupendo, justo para dispararle al trasero del shériff local."
 
 # game/script.rpy:341
 translate espanol showbill_aaf2678c:
@@ -276,6 +279,7 @@ translate espanol drink_viski_c6980186:
 
     # "Раптовий голос шерифа перервав вкрай небезпечне пограбування. Пастка, як завжди все йде не за планом... Мабуть, вибору у нашого голуба не залишилося, є тільки одне рішення цієї проблеми."
     "La voz repentina del sheriff interrumpió el robo extremadamente peligroso. La trampa, como siempre, no salió según lo planeado... Parece que nuestro amigo el pájaro no tiene elección, solo hay una solución para este problema."
+    + "La voz repentina del shériff interrumpió el robo extremadamente peligroso. La trampa, como siempre, no salió según lo planeado... Parece que nuestro amigo el pájaro no tiene elección, solo hay una solución para este problema."
 
 # game/script.rpy:701
 translate espanol drink_viski_fded8bf6:
@@ -294,6 +298,7 @@ translate espanol drink_viski_0443aa39:
 
     # sh "Поки я шериф у цьому місті, тобі не вдасться пограбувати жоден банк."
     sh "Mientras yo sea el sheriff en esta ciudad, no podrás robar ningún banco."
+    + sh "Mientras yo sea el shériff en esta ciudad, no podrás robar ningún banco."
 
 # game/script.rpy:717
 translate espanol drink_viski_0628f4c4:
@@ -324,6 +329,7 @@ translate espanol vistril_1f6ac52e:
 
     # "Раптовий і зовсім непередбачуваний поворот подій шокував нашого голуба до глибини душі."
     "Un giro repentino e completamente impredecible de los eventos dejó a nuestro palomo en shock hasta lo más profundo de su ser."
+    + "Un giro repentino y completamente impredecible de los eventos dejó a nuestro palomo en shock hasta lo más profundo de su ser."
 
 # game/script.rpy:835
 translate espanol vistril_9549a8e2:
@@ -336,6 +342,7 @@ translate espanol vistril_591756e3:
 
     # c "Ти не гідний називатися el diablo, прощавай."
     c "No eres digno de ser llamado el Diablo, adiós."
+    + c "No eres digno de ser llamado El Diablo, adiós."
 
 # game/script.rpy:839
 translate espanol vistril_8380c642:
@@ -402,6 +409,7 @@ translate espanol art2_300147b3:
 
     # "У день, коли він пообіцяв {p=0.1}собі більше ніколи не тікати."
     "El día en que se prometió a sí mismo no huir nunca más."
+    + "El día en que se prometió a sí mismo no huir jamás."
 
 # game/script.rpy:907
 translate espanol akt6_6b542ef2:
@@ -432,6 +440,7 @@ translate espanol art3_06a635cb:
 
     # b "Бос? Мабуть, на сьогодні вистачить текіли... Зачекай, не може бути, адже я особисто вбив тебе..."
     b "Boss? Supongo que por hoy es suficiente tequila... Espera, no puede ser, después de todo, yo personalmente te maté..."
+    + b "Jefe? Supongo que por hoy es suficiente tequila... Espera, no puede ser, después de todo, yo personalmente te maté..."
 
 # game/script.rpy:943
 translate espanol art3_d78ee6f3:
@@ -486,6 +495,7 @@ translate espanol end_duel_a2125150:
 
     # c "Думаєш, ти крутий? Я місяцями спостерігала за тобою і зможу передбачити будь-який твій рух, у тебе немає й шансу проти мене, el diablo."
     c "¿Crees que eres genial? Te he estado observando durante meses y puedo prever todos tus movimientos. No tienes ninguna posibilidad contra mí, el diablo."
+    + c "¿Crees que eres genial? Te he estado observando durante meses y puedo prever todos tus movimientos. No tienes ninguna posibilidad contra mí, El Diablo."
 
 # game/script.rpy:1170
 translate espanol end_duel_9825a9dc:
@@ -510,6 +520,7 @@ translate espanol end_duel_e0e6259a:
 
     # "Після тієї ночі більше ніхто не бачив найнебезпечнішого злочинця на всьому Дикому Заході, el diablo..."
     "Después de esa noche, nadie volvió a ver al criminal más peligroso del Salvaje Oeste, el diablo..."
+    + "Después de esa noche, nadie volvió a ver al criminal más peligroso del Salvaje Oeste, El Diablo..."
 
 # game/script.rpy:1196
 translate espanol akt8_97235131:
@@ -534,6 +545,7 @@ translate espanol akt8_ce405edd:
 
     # "Він не просто голуб, його ім'я, el diablo." with clr
     "Él no es solo una paloma, su nombre es el diablo." with clr
+    + "Él no es solo una paloma, su nombre es El Diablo." with clr
 
 translate espanol strings:
 
@@ -544,6 +556,7 @@ translate espanol strings:
     # game/script.rpy:303
     old "{font=font/docktrin.ttf}{size=+120}el diablo"
     new "{font=font/docktrin.ttf}{size=+120}El diablo"
+    + new "{font=font/docktrin.ttf}{size=+120}El Diablo"
 
     # game/script.rpy:331
     old "{font=font/docktrin.ttf}{size=+110}Bill{size=-110}{font=font/Lumberjack Rough.otf}{p}Злий{p} У два роки забив батька чоботом"
@@ -552,10 +565,12 @@ translate espanol strings:
     # game/script.rpy:353
     old "{font=font/docktrin.ttf}{size=+110}Cici{size=-110}{font=font/Lumberjack Rough.otf}{p}Хороша{p} Головна по переговорам."
     new "{font=font/docktrin.ttf}{size=+110}Sisi{size=-110}{font=font/Lumberjack Rough.otf}{p}Buen{p} Jefe de negociaciones"
+    + new "{font=font/docktrin.ttf}{size=+110}Sisi{size=-110}{font=font/Lumberjack Rough.otf}{p}Buena{p} Jefa de negociaciones"
 
     # game/script.rpy:376
     old "{font=font/docktrin.ttf}{size=+110}Jesse{size=-110}{font=font/Lumberjack Rough.otf}{p}Поганий{p} Експерт із вибухівки."
     new "{font=font/docktrin.ttf}{size=+110}Jesse{size=-110}{font=font/Lumberjack Rough.otf}{p}Bad{p} Experto en explosivos"
+    + new "{font=font/docktrin.ttf}{size=+110}Jesse{size=-110}{font=font/Lumberjack Rough.otf}{p}Malo{p} Experto en explosivos"
 
     # game/script.rpy:924
     old "{font=font/docktrin.ttf}{size=+120}El Diablo {font=font/Lumberjack Rough.otf}{p=0.1}{size=-90}     йде мстити"
